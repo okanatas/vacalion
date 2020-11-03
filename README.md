@@ -1,2 +1,2 @@
-# vacalion
+# vacalion - vacation rentals website
 
