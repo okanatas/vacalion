@@ -1,2 +1,3 @@
-# vacalion - vacation rentals website
+# Vacalion - Vacation Rentals Website
 
+https://vacalion.herokuapp.com
